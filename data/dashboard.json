@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "as_of": "2026-09-22"
+  },
+  "series": [],
+  "accuracy": {
+    "n": 0,
+    "mae": null,
+    "smape": null,
+    "matured_30d": null,
+    "by_horizon": []
+  },
+  "model": {
+    "status": "waiting_for_data"
+  }
+}
